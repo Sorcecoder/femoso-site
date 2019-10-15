@@ -2,7 +2,7 @@
 section.cta {
     position: relative;
     padding: 250px 0;
-    background-image: url('../img/bg-cta.jpg');
+    background-image: url('../img/business.jpg');
     background-position: center;
     @include background-cover;
     .cta-content {
@@ -21,7 +21,7 @@ section.cta {
             }
         }
     }
-    .overlay {
+    .overlay {bg
         position: absolute;
         top: 0;
         left: 0;
