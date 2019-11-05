@@ -33,16 +33,14 @@ section.cta {
 
 section.ctb {
     position: relative;
-    padding: 250px 0;
+    padding: 200px 0;
     background-image: url('../img/ready.jpeg');
     background-position: fit;
     height: 100%;
     @include background-cover;
     .ctb-content {
-        position: absolute;
+        position: relative;
         z-index: 1;
-        top: 25%;
-        left: 35%;
         h2 {
             font-size: 50px;
             margin-top: 0;

@@ -320,7 +320,7 @@ section.cta .overlay {
 
 section.ctb {
   position: relative;
-  padding: 250px 0;
+  padding: 200px 0;
   background-image: url("../img/ready.jpeg");
   background-position: fit;
   height: 100%;
@@ -328,10 +328,8 @@ section.ctb {
 }
 
 section.ctb .ctb-content {
-  position: absolute;
+  position: relative;
   z-index: 1;
-  top: 25%;
-  left: 35%;
 }
 
 section.ctb .ctb-content h2 {
