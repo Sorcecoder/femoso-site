@@ -39,8 +39,10 @@ section.ctb {
     height: 100%;
     @include background-cover;
     .ctb-content {
-        position: relative;
+        position: absolute;
         z-index: 1;
+        top: 25%;
+        left: 35%;
         h2 {
             font-size: 50px;
             margin-top: 0;

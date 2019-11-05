@@ -328,8 +328,10 @@ section.ctb {
 }
 
 section.ctb .ctb-content {
-  position: relative;
+  position: absolute;
   z-index: 1;
+  top: 25%;
+  left: 35%;
 }
 
 section.ctb .ctb-content h2 {
